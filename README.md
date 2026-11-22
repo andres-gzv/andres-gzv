@@ -3,7 +3,7 @@
 **Ingeniero Civil Informático en formación (5.º año) · Desarrollador Full Stack** 
 📍 Región de Valparaíso, Chile
 
-Soy desarrollador de software enfocado en la creación de aplicaciones web de principio a fin, con especial interés en la **Inteligencia Artificial**, la automatización y la resolución de problemas mediante software. Diseño arquitecturas desacopladas y serverless combinando **React y TypeScript** en el frontend con **Cloudflare y Supabase** en el backend, apoyándome en flujos asistidos por IA sin perder el criterio técnico sobre el diseño y la calidad del código.
+Soy desarrollador de software junior enfocado en la creación de aplicaciones web de principio a fin, con especial interés en la **Inteligencia Artificial**, la automatización y la resolución de problemas mediante software. Diseño arquitecturas desacopladas y serverless combinando **React y TypeScript** en el frontend con **Cloudflare y Supabase** en el backend, apoyándome en flujos asistidos por IA sin perder el criterio técnico sobre el diseño y la calidad del código.
 
 ---
 
